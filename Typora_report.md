@@ -1,4 +1,4 @@
-<div dir = 'rtl'>
+
 <p style="text-align: center; font-weight: bold;">
     به نام خدا
     <br>
@@ -174,5 +174,3 @@ video src="xxx.mp4"
 <p style="text-align: center; font-weight: bold;">
     پایان
 </p>
-    
-</div>
